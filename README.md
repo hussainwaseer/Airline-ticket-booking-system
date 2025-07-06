@@ -35,9 +35,9 @@ A console-based C++ application to simulate an airline ticket booking system. It
 g++ -o ticket_booking main.cpp
 🚀 Run
 bash
-Copy
-Edit
 ./ticket_booking
+
+
 🗂 File Structure
 pgsql
 Copy
@@ -74,8 +74,6 @@ Developed by Muhammad Hussain as a console-based simulation project.
 
 📸 Sample Output
 markdown
-Copy
-Edit
 **********************************************************
 *    NAME: John Doe         FLIGHT: B707        DATE: 12/25/2025 *
 *                                                         *
