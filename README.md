@@ -37,11 +37,8 @@ g++ -o ticket_booking main.cpp
 bash
 ./ticket_booking
 
-
 🗂 File Structure
-pgsql
-Copy
-Edit
+
 .
 ├── main.cpp                # Main application source code
 ├── ARRIVAL_COUNTRIES.txt  # List of destination countries
@@ -49,6 +46,7 @@ Edit
 ├── AIRCRAFT_TYPES.txt     # Available aircraft types
 ├── CLASS.txt              # Ticket class info (Business / Economy)
 └── Record.xls             # Auto-generated record of bookings
+```
 🧠 Concepts Covered
 ofstream / ifstream for file I/O
 
